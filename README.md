@@ -1,23 +1,17 @@
-<h2 align="center"><b><h3>Tokenization with Factorized Subword Encoding</h3></b></h2><br>
-
-
-<p align="center">
-  <b>David Samuel</b> and <b>Lilja Øvrelid</b>
-</p>
+<h2 align="center"><b><h3>Does Subword Vocabulary hold back Machine Translation?</h3></b></h2><br>
 
 <p align="center">
-  <i>
-    University of Oslo<br>
-    Language Technology Group<br>
-  </i>
+  <b>Avijit Thawani</b>, Saurabh Ghanekar, Dipesh Kumar, ay Pujara
 </p>
 <br>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2306.07764"><b>Paper (arXiv)</b></a><br><br>
+  <a href="https://openreview.net/pdf?id=D0fEYV_Ru4"><b>Paper (OpenReview)</b></a><br><br>
 </p>
 
 _______
+
+Below is the original repository that we build upon: [Factorizer](https://github.com/ltgoslo/factorizer)
 
 <br>
 
